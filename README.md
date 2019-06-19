@@ -62,6 +62,7 @@ $ bash deploy.sh
 * LocalStorage
 * SessionStorage
 * IP Address
+* Commit
 
 ## :satellite: Out-of-Band (OOB) Callbacks Listener
 
